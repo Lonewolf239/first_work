@@ -1,1 +1,1 @@
-# first_work
+# This is my first code written while learning.
